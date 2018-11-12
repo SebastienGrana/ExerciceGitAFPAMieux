@@ -9,6 +9,9 @@ public class Main {
 		o.askSentence();
 		o.characterToDelete();
 
+		OverTheTopClassD1 d1 = new OverTheTopClassD1();
+		
+		d1.bestBrint(25, "Toto");
 	}
 
 }
